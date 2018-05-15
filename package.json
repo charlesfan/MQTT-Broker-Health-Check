@@ -1,0 +1,11 @@
+{
+ "name": "MQTT-Broker-Health-Check",
+ "version": "0.0.1",
+ "description": "Checker",
+ "main": "publish.js",
+ "scripts": {},
+ "author": "Charles Fan",
+ "dependencies": {
+  "mqtt": "^2.18.0"
+ }
+}
